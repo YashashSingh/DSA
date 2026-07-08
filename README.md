@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/YashashSingh/DSA/tree/master/0347-top-k-frequent-elements) |
+| [1095-find-in-mountain-array](https://github.com/YashashSingh/DSA/tree/master/1095-find-in-mountain-array) |
 | [2404-most-frequent-even-element](https://github.com/YashashSingh/DSA/tree/master/2404-most-frequent-even-element) |
 | [2501-longest-square-streak-in-an-array](https://github.com/YashashSingh/DSA/tree/master/2501-longest-square-streak-in-an-array) |
 ## Hash Table
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1095-find-in-mountain-array](https://github.com/YashashSingh/DSA/tree/master/1095-find-in-mountain-array) |
 | [2501-longest-square-streak-in-an-array](https://github.com/YashashSingh/DSA/tree/master/2501-longest-square-streak-in-an-array) |
 ## Dynamic Programming
 |  |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2523-closest-prime-numbers-in-range](https://github.com/YashashSingh/DSA/tree/master/2523-closest-prime-numbers-in-range) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/YashashSingh/DSA/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
