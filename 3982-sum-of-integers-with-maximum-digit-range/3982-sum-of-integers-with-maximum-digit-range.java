@@ -15,26 +15,20 @@ class Solution {
     }
     public int maxDigitRange(int[] nums) {
         int n=nums.length;
-        int ans[]=new int[n];
+        int range=0;
         int max=Integer.MIN_VALUE;
         for(int i=0;i<n;i++){
-            ans[i]=digRange(nums[i]);
-        }
-        for(int i=0;i<ans.length;i++){
-            if(ans[i]>max){
-                max=ans[i];
+            range=digRange(nums[i]);
+            if(range>max){
+                max=range;
             }
         }
-        ArrayList<Integer> list = new ArrayList<>();
-        for(int i=0;i<ans.length;i++){
-            if(ans[i]==max){
-                list.add(nums[i]);
+        int sum=0;
+        for(int i=0;i<n;i++){
+            if(digRange(nums[i])==max){
+                sum+=nums[i];
             }
         }
-        int a=0;
-        for(int i=0;i<list.size();i++){
-            a+=list.get(i);
-        }
-        return a;
+        return sum;
     }
 }
