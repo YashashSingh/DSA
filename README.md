@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/YashashSingh/DSA/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/YashashSingh/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1095-find-in-mountain-array](https://github.com/YashashSingh/DSA/tree/master/1095-find-in-mountain-array) |
 | [2404-most-frequent-even-element](https://github.com/YashashSingh/DSA/tree/master/2404-most-frequent-even-element) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/YashashSingh/DSA/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/YashashSingh/DSA/tree/master/0347-top-k-frequent-elements) |
 | [2501-longest-square-streak-in-an-array](https://github.com/YashashSingh/DSA/tree/master/2501-longest-square-streak-in-an-array) |
 ## Divide and Conquer
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/YashashSingh/DSA/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/YashashSingh/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
@@ -62,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/YashashSingh/DSA/tree/master/1095-find-in-mountain-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/YashashSingh/DSA/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
