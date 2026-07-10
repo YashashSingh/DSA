@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/YashashSingh/DSA/tree/master/0347-top-k-frequent-elements) |
 | [2404-most-frequent-even-element](https://github.com/YashashSingh/DSA/tree/master/2404-most-frequent-even-element) |
 | [3843-first-element-with-unique-frequency](https://github.com/YashashSingh/DSA/tree/master/3843-first-element-with-unique-frequency) |
+| [3848-check-digitorial-permutation](https://github.com/YashashSingh/DSA/tree/master/3848-check-digitorial-permutation) |
 ## Quickselect
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2523-closest-prime-numbers-in-range](https://github.com/YashashSingh/DSA/tree/master/2523-closest-prime-numbers-in-range) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/YashashSingh/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3848-check-digitorial-permutation](https://github.com/YashashSingh/DSA/tree/master/3848-check-digitorial-permutation) |
 ## Number Theory
 |  |
 | ------- |
