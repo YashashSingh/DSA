@@ -79,5 +79,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/YashashSingh/DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3819-rotate-non-negative-elements](https://github.com/YashashSingh/DSA/tree/master/3819-rotate-non-negative-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/YashashSingh/DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
+## String
+|  |
+| ------- |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/YashashSingh/DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
 <!---LeetCode Topics End-->
