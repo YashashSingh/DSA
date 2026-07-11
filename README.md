@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/YashashSingh/DSA/tree/master/1095-find-in-mountain-array) |
 | [2404-most-frequent-even-element](https://github.com/YashashSingh/DSA/tree/master/2404-most-frequent-even-element) |
 | [2501-longest-square-streak-in-an-array](https://github.com/YashashSingh/DSA/tree/master/2501-longest-square-streak-in-an-array) |
+| [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/YashashSingh/DSA/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3843-first-element-with-unique-frequency](https://github.com/YashashSingh/DSA/tree/master/3843-first-element-with-unique-frequency) |
 ## Hash Table
 |  |
