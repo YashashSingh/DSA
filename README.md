@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/YashashSingh/DSA/tree/master/2404-most-frequent-even-element) |
 | [2501-longest-square-streak-in-an-array](https://github.com/YashashSingh/DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/YashashSingh/DSA/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
+| [3819-rotate-non-negative-elements](https://github.com/YashashSingh/DSA/tree/master/3819-rotate-non-negative-elements) |
 | [3843-first-element-with-unique-frequency](https://github.com/YashashSingh/DSA/tree/master/3843-first-element-with-unique-frequency) |
 ## Hash Table
 |  |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/YashashSingh/DSA/tree/master/0164-maximum-gap) |
+## Simulation
+|  |
+| ------- |
+| [3819-rotate-non-negative-elements](https://github.com/YashashSingh/DSA/tree/master/3819-rotate-non-negative-elements) |
 <!---LeetCode Topics End-->
