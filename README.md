@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/YashashSingh/DSA/tree/master/0164-maximum-gap) |
+| [0209-minimum-size-subarray-sum](https://github.com/YashashSingh/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0347-top-k-frequent-elements](https://github.com/YashashSingh/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1095-find-in-mountain-array](https://github.com/YashashSingh/DSA/tree/master/1095-find-in-mountain-array) |
 | [2404-most-frequent-even-element](https://github.com/YashashSingh/DSA/tree/master/2404-most-frequent-even-element) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/YashashSingh/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [1095-find-in-mountain-array](https://github.com/YashashSingh/DSA/tree/master/1095-find-in-mountain-array) |
 | [2501-longest-square-streak-in-an-array](https://github.com/YashashSingh/DSA/tree/master/2501-longest-square-streak-in-an-array) |
 ## Dynamic Programming
@@ -89,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/YashashSingh/DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/YashashSingh/DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/YashashSingh/DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
