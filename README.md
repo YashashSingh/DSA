@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/YashashSingh/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0347-top-k-frequent-elements](https://github.com/YashashSingh/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1095-find-in-mountain-array](https://github.com/YashashSingh/DSA/tree/master/1095-find-in-mountain-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/YashashSingh/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2404-most-frequent-even-element](https://github.com/YashashSingh/DSA/tree/master/2404-most-frequent-even-element) |
 | [2501-longest-square-streak-in-an-array](https://github.com/YashashSingh/DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/YashashSingh/DSA/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
@@ -66,12 +67,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/YashashSingh/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/YashashSingh/DSA/tree/master/2523-closest-prime-numbers-in-range) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/YashashSingh/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3848-check-digitorial-permutation](https://github.com/YashashSingh/DSA/tree/master/3848-check-digitorial-permutation) |
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/YashashSingh/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/YashashSingh/DSA/tree/master/2523-closest-prime-numbers-in-range) |
 ## Interactive
 |  |
