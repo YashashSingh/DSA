@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/YashashSingh/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1095-find-in-mountain-array](https://github.com/YashashSingh/DSA/tree/master/1095-find-in-mountain-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YashashSingh/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2352-equal-row-and-column-pairs](https://github.com/YashashSingh/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2404-most-frequent-even-element](https://github.com/YashashSingh/DSA/tree/master/2404-most-frequent-even-element) |
 | [2501-longest-square-streak-in-an-array](https://github.com/YashashSingh/DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/YashashSingh/DSA/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/YashashSingh/DSA/tree/master/0347-top-k-frequent-elements) |
+| [2352-equal-row-and-column-pairs](https://github.com/YashashSingh/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2404-most-frequent-even-element](https://github.com/YashashSingh/DSA/tree/master/2404-most-frequent-even-element) |
 | [2501-longest-square-streak-in-an-array](https://github.com/YashashSingh/DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [3843-first-element-with-unique-frequency](https://github.com/YashashSingh/DSA/tree/master/3843-first-element-with-unique-frequency) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/YashashSingh/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/YashashSingh/DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3819-rotate-non-negative-elements](https://github.com/YashashSingh/DSA/tree/master/3819-rotate-non-negative-elements) |
 ## Two Pointers
@@ -105,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/YashashSingh/DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Matrix
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/YashashSingh/DSA/tree/master/2352-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
